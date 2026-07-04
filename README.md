@@ -117,14 +117,6 @@
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-PannerSelvam&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
-</td>
-<td align="center" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-PannerSelvam&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-</td>
-</tr>
-<tr>
 <td colspan="2" align="center">
   <img src="https://streak-stats.demolab.com?user=Naveen-PannerSelvam&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </td>
@@ -134,13 +126,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-PannerSelvam&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-PannerSelvam&no-frame=true&no-bg=true&theme=tokyonight&column=7" width="100%" alt="GitHub Trophies" />
-</td>
-</tr>
 </table>
-
 <br/>
 
 ---
